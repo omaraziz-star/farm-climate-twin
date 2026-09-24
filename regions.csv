@@ -1,0 +1,32 @@
+region_id,name,country,lat,lon,is_target
+US_KS_RENO,Reno County Kansas,US,38.05,-97.93,1
+US_TX_AMARILLO,Amarillo Texas,US,35.2,-101.8,0
+US_OK_ENID,Enid Oklahoma,US,36.4,-97.9,0
+US_NE_HASTINGS,Hastings Nebraska,US,40.6,-98.4,0
+US_IA_AMES,Ames Iowa,US,42.0,-93.6,0
+US_IL_CHAMPAIGN,Champaign Illinois,US,40.1,-88.2,0
+US_CO_STERLING,Sterling Colorado,US,40.6,-103.2,0
+US_ND_FARGO,Fargo North Dakota,US,46.9,-96.8,0
+US_MO_COLUMBIA,Columbia Missouri,US,38.95,-92.3,0
+US_KS_GARDENCITY,Garden City Kansas,US,38.0,-100.9,0
+US_TX_WACO,Waco Texas,US,31.5,-97.1,0
+US_MS_GREENVILLE,Greenville Mississippi,US,33.4,-91.1,0
+CA_SK_REGINA,Regina Saskatchewan,CA,50.4,-104.6,0
+AR_PERGAMINO,Pergamino Argentina,AR,-33.9,-60.6,0
+AR_MARCOSJUAREZ,Marcos Juarez Argentina,AR,-32.7,-62.1,0
+BR_PASSOFUNDO,Passo Fundo Brazil,BR,-28.3,-52.4,0
+BR_LONDRINA,Londrina Brazil,BR,-23.3,-51.2,0
+AU_WAGGA,Wagga Wagga Australia,AU,-35.1,147.4,0
+AU_DUBBO,Dubbo Australia,AU,-32.2,148.6,0
+AU_NORTHAM,Northam Australia,AU,-31.7,116.7,0
+AU_HORSHAM,Horsham Australia,AU,-36.7,142.2,0
+UA_POLTAVA,Poltava Ukraine,UA,49.6,34.6,0
+UA_KROPYVNYTSKYI,Kropyvnytskyi Ukraine,UA,48.5,32.3,0
+RU_KRASNODAR,Krasnodar Russia,RU,45.0,39.0,0
+RU_STAVROPOL,Stavropol Russia,RU,45.0,41.9,0
+KZ_KOSTANAY,Kostanay Kazakhstan,KZ,53.2,63.6,0
+ZA_BETHLEHEM,Bethlehem South Africa,ZA,-28.2,28.3,0
+ZA_MALMESBURY,Malmesbury South Africa,ZA,-33.5,18.7,0
+ES_VALLADOLID,Valladolid Spain,ES,41.65,-4.7,0
+FR_CHARTRES,Chartres France,FR,48.4,1.5,0
+TR_KONYA,Konya Turkey,TR,37.9,32.5,0
