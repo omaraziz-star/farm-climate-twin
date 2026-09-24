@@ -1,0 +1,61 @@
+weighting,region_id,region,times_rank1,times_top3,mean_rank,n_runs
+grouped,US_OK_ENID,Enid Oklahoma,6,6,1,6
+grouped,US_KS_GARDENCITY,Garden City Kansas,0,6,2.3,6
+grouped,US_TX_AMARILLO,Amarillo Texas,0,6,2.7,6
+grouped,US_CO_STERLING,Sterling Colorado,0,0,4.8,6
+grouped,US_MO_COLUMBIA,Columbia Missouri,0,0,5.2,6
+grouped,US_NE_HASTINGS,Hastings Nebraska,0,0,6.2,6
+grouped,AR_MARCOSJUAREZ,Marcos Juarez Argentina,0,0,7.7,6
+grouped,US_TX_WACO,Waco Texas,0,0,8.3,6
+grouped,RU_KRASNODAR,Krasnodar Russia,0,0,8.5,6
+grouped,AU_DUBBO,Dubbo Australia,0,0,9.2,6
+grouped,AR_PERGAMINO,Pergamino Argentina,0,0,10.8,6
+grouped,RU_STAVROPOL,Stavropol Russia,0,0,12.3,6
+grouped,AU_WAGGA,Wagga Wagga Australia,0,0,13.7,6
+grouped,US_MS_GREENVILLE,Greenville Mississippi,0,0,14,6
+grouped,US_IA_AMES,Ames Iowa,0,0,14.5,6
+grouped,US_IL_CHAMPAIGN,Champaign Illinois,0,0,15.5,6
+grouped,ZA_BETHLEHEM,Bethlehem South Africa,0,0,16.3,6
+grouped,UA_KROPYVNYTSKYI,Kropyvnytskyi Ukraine,0,0,18.3,6
+grouped,UA_POLTAVA,Poltava Ukraine,0,0,18.7,6
+grouped,US_ND_FARGO,Fargo North Dakota,0,0,20.3,6
+grouped,AU_HORSHAM,Horsham Australia,0,0,20.7,6
+grouped,FR_CHARTRES,Chartres France,0,0,22.3,6
+grouped,BR_LONDRINA,Londrina Brazil,0,0,23,6
+grouped,CA_SK_REGINA,Regina Saskatchewan,0,0,24,6
+grouped,KZ_KOSTANAY,Kostanay Kazakhstan,0,0,25.5,6
+grouped,AU_NORTHAM,Northam Australia,0,0,26,6
+grouped,BR_PASSOFUNDO,Passo Fundo Brazil,0,0,26.2,6
+grouped,ZA_MALMESBURY,Malmesbury South Africa,0,0,28.2,6
+grouped,ES_VALLADOLID,Valladolid Spain,0,0,28.8,6
+grouped,TR_KONYA,Konya Turkey,0,0,30,6
+equal,US_OK_ENID,Enid Oklahoma,6,6,1,6
+equal,US_KS_GARDENCITY,Garden City Kansas,0,6,2.5,6
+equal,US_TX_AMARILLO,Amarillo Texas,0,6,2.5,6
+equal,AU_DUBBO,Dubbo Australia,0,0,4.7,6
+equal,AR_MARCOSJUAREZ,Marcos Juarez Argentina,0,0,5,6
+equal,US_TX_WACO,Waco Texas,0,0,5.5,6
+equal,US_CO_STERLING,Sterling Colorado,0,0,7.5,6
+equal,AR_PERGAMINO,Pergamino Argentina,0,0,8.7,6
+equal,AU_WAGGA,Wagga Wagga Australia,0,0,9.2,6
+equal,US_MO_COLUMBIA,Columbia Missouri,0,0,9.7,6
+equal,US_NE_HASTINGS,Hastings Nebraska,0,0,10.5,6
+equal,RU_KRASNODAR,Krasnodar Russia,0,0,11.8,6
+equal,US_MS_GREENVILLE,Greenville Mississippi,0,0,12.8,6
+equal,AU_HORSHAM,Horsham Australia,0,0,14,6
+equal,RU_STAVROPOL,Stavropol Russia,0,0,15.3,6
+equal,US_IA_AMES,Ames Iowa,0,0,16.7,6
+equal,ZA_BETHLEHEM,Bethlehem South Africa,0,0,16.7,6
+equal,AU_NORTHAM,Northam Australia,0,0,17.5,6
+equal,US_IL_CHAMPAIGN,Champaign Illinois,0,0,18.5,6
+equal,UA_KROPYVNYTSKYI,Kropyvnytskyi Ukraine,0,0,20,6
+equal,UA_POLTAVA,Poltava Ukraine,0,0,21,6
+equal,US_ND_FARGO,Fargo North Dakota,0,0,22,6
+equal,ES_VALLADOLID,Valladolid Spain,0,0,23.3,6
+equal,BR_LONDRINA,Londrina Brazil,0,0,24,6
+equal,TR_KONYA,Konya Turkey,0,0,25.3,6
+equal,ZA_MALMESBURY,Malmesbury South Africa,0,0,26,6
+equal,CA_SK_REGINA,Regina Saskatchewan,0,0,27.3,6
+equal,BR_PASSOFUNDO,Passo Fundo Brazil,0,0,27.8,6
+equal,FR_CHARTRES,Chartres France,0,0,28.3,6
+equal,KZ_KOSTANAY,Kostanay Kazakhstan,0,0,29.8,6

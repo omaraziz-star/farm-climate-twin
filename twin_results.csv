@@ -1,0 +1,361 @@
+weighting,model,scenario,rank,region_id,region,distance
+grouped,ACCESS-CM2,ssp245,1,US_OK_ENID,Enid Oklahoma,0.584
+grouped,ACCESS-CM2,ssp245,2,US_KS_GARDENCITY,Garden City Kansas,0.971
+grouped,ACCESS-CM2,ssp245,3,US_TX_AMARILLO,Amarillo Texas,1.065
+grouped,ACCESS-CM2,ssp245,4,US_MO_COLUMBIA,Columbia Missouri,1.629
+grouped,ACCESS-CM2,ssp245,5,US_NE_HASTINGS,Hastings Nebraska,1.777
+grouped,ACCESS-CM2,ssp245,6,US_CO_STERLING,Sterling Colorado,1.823
+grouped,ACCESS-CM2,ssp245,7,AR_MARCOSJUAREZ,Marcos Juarez Argentina,1.881
+grouped,ACCESS-CM2,ssp245,8,US_TX_WACO,Waco Texas,1.953
+grouped,ACCESS-CM2,ssp245,9,RU_KRASNODAR,Krasnodar Russia,2.024
+grouped,ACCESS-CM2,ssp245,10,AR_PERGAMINO,Pergamino Argentina,2.08
+grouped,ACCESS-CM2,ssp245,11,AU_DUBBO,Dubbo Australia,2.093
+grouped,ACCESS-CM2,ssp245,12,US_MS_GREENVILLE,Greenville Mississippi,2.137
+grouped,ACCESS-CM2,ssp245,13,RU_STAVROPOL,Stavropol Russia,2.246
+grouped,ACCESS-CM2,ssp245,14,US_IA_AMES,Ames Iowa,2.259
+grouped,ACCESS-CM2,ssp245,15,US_IL_CHAMPAIGN,Champaign Illinois,2.26
+grouped,ACCESS-CM2,ssp245,16,AU_WAGGA,Wagga Wagga Australia,2.387
+grouped,ACCESS-CM2,ssp245,17,ZA_BETHLEHEM,Bethlehem South Africa,2.525
+grouped,ACCESS-CM2,ssp245,18,UA_POLTAVA,Poltava Ukraine,2.601
+grouped,ACCESS-CM2,ssp245,19,UA_KROPYVNYTSKYI,Kropyvnytskyi Ukraine,2.602
+grouped,ACCESS-CM2,ssp245,20,US_ND_FARGO,Fargo North Dakota,2.776
+grouped,ACCESS-CM2,ssp245,21,AU_HORSHAM,Horsham Australia,2.937
+grouped,ACCESS-CM2,ssp245,22,BR_LONDRINA,Londrina Brazil,3.151
+grouped,ACCESS-CM2,ssp245,23,FR_CHARTRES,Chartres France,3.294
+grouped,ACCESS-CM2,ssp245,24,CA_SK_REGINA,Regina Saskatchewan,3.402
+grouped,ACCESS-CM2,ssp245,25,BR_PASSOFUNDO,Passo Fundo Brazil,3.506
+grouped,ACCESS-CM2,ssp245,26,KZ_KOSTANAY,Kostanay Kazakhstan,3.551
+grouped,ACCESS-CM2,ssp245,27,AU_NORTHAM,Northam Australia,3.677
+grouped,ACCESS-CM2,ssp245,28,ZA_MALMESBURY,Malmesbury South Africa,4.062
+grouped,ACCESS-CM2,ssp245,29,ES_VALLADOLID,Valladolid Spain,4.138
+grouped,ACCESS-CM2,ssp245,30,TR_KONYA,Konya Turkey,4.27
+grouped,ACCESS-CM2,ssp585,1,US_OK_ENID,Enid Oklahoma,0.587
+grouped,ACCESS-CM2,ssp585,2,US_KS_GARDENCITY,Garden City Kansas,0.943
+grouped,ACCESS-CM2,ssp585,3,US_TX_AMARILLO,Amarillo Texas,1.082
+grouped,ACCESS-CM2,ssp585,4,US_MO_COLUMBIA,Columbia Missouri,1.556
+grouped,ACCESS-CM2,ssp585,5,US_NE_HASTINGS,Hastings Nebraska,1.706
+grouped,ACCESS-CM2,ssp585,6,US_CO_STERLING,Sterling Colorado,1.793
+grouped,ACCESS-CM2,ssp585,7,AR_MARCOSJUAREZ,Marcos Juarez Argentina,1.83
+grouped,ACCESS-CM2,ssp585,8,AR_PERGAMINO,Pergamino Argentina,2.029
+grouped,ACCESS-CM2,ssp585,9,US_TX_WACO,Waco Texas,2.043
+grouped,ACCESS-CM2,ssp585,10,RU_KRASNODAR,Krasnodar Russia,2.063
+grouped,ACCESS-CM2,ssp585,11,AU_DUBBO,Dubbo Australia,2.114
+grouped,ACCESS-CM2,ssp585,12,US_MS_GREENVILLE,Greenville Mississippi,2.154
+grouped,ACCESS-CM2,ssp585,13,US_IA_AMES,Ames Iowa,2.191
+grouped,ACCESS-CM2,ssp585,14,US_IL_CHAMPAIGN,Champaign Illinois,2.2
+grouped,ACCESS-CM2,ssp585,15,RU_STAVROPOL,Stavropol Russia,2.236
+grouped,ACCESS-CM2,ssp585,16,AU_WAGGA,Wagga Wagga Australia,2.413
+grouped,ACCESS-CM2,ssp585,17,ZA_BETHLEHEM,Bethlehem South Africa,2.453
+grouped,ACCESS-CM2,ssp585,18,UA_POLTAVA,Poltava Ukraine,2.594
+grouped,ACCESS-CM2,ssp585,19,UA_KROPYVNYTSKYI,Kropyvnytskyi Ukraine,2.607
+grouped,ACCESS-CM2,ssp585,20,US_ND_FARGO,Fargo North Dakota,2.727
+grouped,ACCESS-CM2,ssp585,21,AU_HORSHAM,Horsham Australia,2.991
+grouped,ACCESS-CM2,ssp585,22,BR_LONDRINA,Londrina Brazil,3.082
+grouped,ACCESS-CM2,ssp585,23,FR_CHARTRES,Chartres France,3.274
+grouped,ACCESS-CM2,ssp585,24,CA_SK_REGINA,Regina Saskatchewan,3.379
+grouped,ACCESS-CM2,ssp585,25,BR_PASSOFUNDO,Passo Fundo Brazil,3.455
+grouped,ACCESS-CM2,ssp585,26,KZ_KOSTANAY,Kostanay Kazakhstan,3.551
+grouped,ACCESS-CM2,ssp585,27,AU_NORTHAM,Northam Australia,3.794
+grouped,ACCESS-CM2,ssp585,28,ZA_MALMESBURY,Malmesbury South Africa,4.141
+grouped,ACCESS-CM2,ssp585,29,ES_VALLADOLID,Valladolid Spain,4.228
+grouped,ACCESS-CM2,ssp585,30,TR_KONYA,Konya Turkey,4.365
+grouped,MPI-ESM1-2-HR,ssp245,1,US_OK_ENID,Enid Oklahoma,0.38
+grouped,MPI-ESM1-2-HR,ssp245,2,US_KS_GARDENCITY,Garden City Kansas,0.593
+grouped,MPI-ESM1-2-HR,ssp245,3,US_TX_AMARILLO,Amarillo Texas,0.603
+grouped,MPI-ESM1-2-HR,ssp245,4,US_CO_STERLING,Sterling Colorado,1.496
+grouped,MPI-ESM1-2-HR,ssp245,5,US_MO_COLUMBIA,Columbia Missouri,1.57
+grouped,MPI-ESM1-2-HR,ssp245,6,US_NE_HASTINGS,Hastings Nebraska,1.582
+grouped,MPI-ESM1-2-HR,ssp245,7,RU_KRASNODAR,Krasnodar Russia,1.754
+grouped,MPI-ESM1-2-HR,ssp245,8,AR_MARCOSJUAREZ,Marcos Juarez Argentina,1.76
+grouped,MPI-ESM1-2-HR,ssp245,9,AU_DUBBO,Dubbo Australia,1.777
+grouped,MPI-ESM1-2-HR,ssp245,10,RU_STAVROPOL,Stavropol Russia,1.897
+grouped,MPI-ESM1-2-HR,ssp245,11,US_TX_WACO,Waco Texas,1.937
+grouped,MPI-ESM1-2-HR,ssp245,12,AR_PERGAMINO,Pergamino Argentina,1.94
+grouped,MPI-ESM1-2-HR,ssp245,13,AU_WAGGA,Wagga Wagga Australia,2.05
+grouped,MPI-ESM1-2-HR,ssp245,14,US_IA_AMES,Ames Iowa,2.121
+grouped,MPI-ESM1-2-HR,ssp245,15,ZA_BETHLEHEM,Bethlehem South Africa,2.14
+grouped,MPI-ESM1-2-HR,ssp245,16,US_IL_CHAMPAIGN,Champaign Illinois,2.149
+grouped,MPI-ESM1-2-HR,ssp245,17,US_MS_GREENVILLE,Greenville Mississippi,2.261
+grouped,MPI-ESM1-2-HR,ssp245,18,UA_KROPYVNYTSKYI,Kropyvnytskyi Ukraine,2.303
+grouped,MPI-ESM1-2-HR,ssp245,19,UA_POLTAVA,Poltava Ukraine,2.327
+grouped,MPI-ESM1-2-HR,ssp245,20,US_ND_FARGO,Fargo North Dakota,2.569
+grouped,MPI-ESM1-2-HR,ssp245,21,AU_HORSHAM,Horsham Australia,2.593
+grouped,MPI-ESM1-2-HR,ssp245,22,FR_CHARTRES,Chartres France,2.957
+grouped,MPI-ESM1-2-HR,ssp245,23,CA_SK_REGINA,Regina Saskatchewan,3.15
+grouped,MPI-ESM1-2-HR,ssp245,24,BR_LONDRINA,Londrina Brazil,3.201
+grouped,MPI-ESM1-2-HR,ssp245,25,KZ_KOSTANAY,Kostanay Kazakhstan,3.302
+grouped,MPI-ESM1-2-HR,ssp245,26,AU_NORTHAM,Northam Australia,3.513
+grouped,MPI-ESM1-2-HR,ssp245,27,BR_PASSOFUNDO,Passo Fundo Brazil,3.52
+grouped,MPI-ESM1-2-HR,ssp245,28,ES_VALLADOLID,Valladolid Spain,3.894
+grouped,MPI-ESM1-2-HR,ssp245,29,ZA_MALMESBURY,Malmesbury South Africa,3.915
+grouped,MPI-ESM1-2-HR,ssp245,30,TR_KONYA,Konya Turkey,4.062
+grouped,MPI-ESM1-2-HR,ssp585,1,US_OK_ENID,Enid Oklahoma,0.602
+grouped,MPI-ESM1-2-HR,ssp585,2,US_TX_AMARILLO,Amarillo Texas,0.726
+grouped,MPI-ESM1-2-HR,ssp585,3,US_KS_GARDENCITY,Garden City Kansas,0.813
+grouped,MPI-ESM1-2-HR,ssp585,4,US_CO_STERLING,Sterling Colorado,1.723
+grouped,MPI-ESM1-2-HR,ssp585,5,US_MO_COLUMBIA,Columbia Missouri,1.828
+grouped,MPI-ESM1-2-HR,ssp585,6,US_NE_HASTINGS,Hastings Nebraska,1.854
+grouped,MPI-ESM1-2-HR,ssp585,7,AR_MARCOSJUAREZ,Marcos Juarez Argentina,1.872
+grouped,MPI-ESM1-2-HR,ssp585,8,US_TX_WACO,Waco Texas,1.891
+grouped,MPI-ESM1-2-HR,ssp585,9,AU_DUBBO,Dubbo Australia,1.893
+grouped,MPI-ESM1-2-HR,ssp585,10,RU_KRASNODAR,Krasnodar Russia,2.009
+grouped,MPI-ESM1-2-HR,ssp585,11,AR_PERGAMINO,Pergamino Argentina,2.119
+grouped,MPI-ESM1-2-HR,ssp585,12,RU_STAVROPOL,Stavropol Russia,2.199
+grouped,MPI-ESM1-2-HR,ssp585,13,AU_WAGGA,Wagga Wagga Australia,2.238
+grouped,MPI-ESM1-2-HR,ssp585,14,US_MS_GREENVILLE,Greenville Mississippi,2.294
+grouped,MPI-ESM1-2-HR,ssp585,15,ZA_BETHLEHEM,Bethlehem South Africa,2.375
+grouped,MPI-ESM1-2-HR,ssp585,16,US_IA_AMES,Ames Iowa,2.394
+grouped,MPI-ESM1-2-HR,ssp585,17,US_IL_CHAMPAIGN,Champaign Illinois,2.426
+grouped,MPI-ESM1-2-HR,ssp585,18,UA_KROPYVNYTSKYI,Kropyvnytskyi Ukraine,2.591
+grouped,MPI-ESM1-2-HR,ssp585,19,UA_POLTAVA,Poltava Ukraine,2.613
+grouped,MPI-ESM1-2-HR,ssp585,20,AU_HORSHAM,Horsham Australia,2.777
+grouped,MPI-ESM1-2-HR,ssp585,21,US_ND_FARGO,Fargo North Dakota,2.825
+grouped,MPI-ESM1-2-HR,ssp585,22,FR_CHARTRES,Chartres France,3.252
+grouped,MPI-ESM1-2-HR,ssp585,23,BR_LONDRINA,Londrina Brazil,3.313
+grouped,MPI-ESM1-2-HR,ssp585,24,CA_SK_REGINA,Regina Saskatchewan,3.405
+grouped,MPI-ESM1-2-HR,ssp585,25,KZ_KOSTANAY,Kostanay Kazakhstan,3.558
+grouped,MPI-ESM1-2-HR,ssp585,26,AU_NORTHAM,Northam Australia,3.574
+grouped,MPI-ESM1-2-HR,ssp585,27,BR_PASSOFUNDO,Passo Fundo Brazil,3.678
+grouped,MPI-ESM1-2-HR,ssp585,28,ZA_MALMESBURY,Malmesbury South Africa,4.065
+grouped,MPI-ESM1-2-HR,ssp585,29,ES_VALLADOLID,Valladolid Spain,4.097
+grouped,MPI-ESM1-2-HR,ssp585,30,TR_KONYA,Konya Turkey,4.266
+grouped,MRI-ESM2-0,ssp245,1,US_OK_ENID,Enid Oklahoma,0.419
+grouped,MRI-ESM2-0,ssp245,2,US_KS_GARDENCITY,Garden City Kansas,0.696
+grouped,MRI-ESM2-0,ssp245,3,US_TX_AMARILLO,Amarillo Texas,0.714
+grouped,MRI-ESM2-0,ssp245,4,US_CO_STERLING,Sterling Colorado,1.602
+grouped,MRI-ESM2-0,ssp245,5,US_MO_COLUMBIA,Columbia Missouri,1.619
+grouped,MRI-ESM2-0,ssp245,6,US_NE_HASTINGS,Hastings Nebraska,1.671
+grouped,MRI-ESM2-0,ssp245,7,AR_MARCOSJUAREZ,Marcos Juarez Argentina,1.815
+grouped,MRI-ESM2-0,ssp245,8,RU_KRASNODAR,Krasnodar Russia,1.837
+grouped,MRI-ESM2-0,ssp245,9,AU_DUBBO,Dubbo Australia,1.862
+grouped,MRI-ESM2-0,ssp245,10,US_TX_WACO,Waco Texas,1.907
+grouped,MRI-ESM2-0,ssp245,11,AR_PERGAMINO,Pergamino Argentina,2.011
+grouped,MRI-ESM2-0,ssp245,12,RU_STAVROPOL,Stavropol Russia,2.025
+grouped,MRI-ESM2-0,ssp245,13,AU_WAGGA,Wagga Wagga Australia,2.153
+grouped,MRI-ESM2-0,ssp245,14,US_IA_AMES,Ames Iowa,2.197
+grouped,MRI-ESM2-0,ssp245,15,US_MS_GREENVILLE,Greenville Mississippi,2.2
+grouped,MRI-ESM2-0,ssp245,16,US_IL_CHAMPAIGN,Champaign Illinois,2.21
+grouped,MRI-ESM2-0,ssp245,17,ZA_BETHLEHEM,Bethlehem South Africa,2.277
+grouped,MRI-ESM2-0,ssp245,18,UA_KROPYVNYTSKYI,Kropyvnytskyi Ukraine,2.412
+grouped,MRI-ESM2-0,ssp245,19,UA_POLTAVA,Poltava Ukraine,2.427
+grouped,MRI-ESM2-0,ssp245,20,US_ND_FARGO,Fargo North Dakota,2.658
+grouped,MRI-ESM2-0,ssp245,21,AU_HORSHAM,Horsham Australia,2.696
+grouped,MRI-ESM2-0,ssp245,22,FR_CHARTRES,Chartres France,3.08
+grouped,MRI-ESM2-0,ssp245,23,BR_LONDRINA,Londrina Brazil,3.2
+grouped,MRI-ESM2-0,ssp245,24,CA_SK_REGINA,Regina Saskatchewan,3.247
+grouped,MRI-ESM2-0,ssp245,25,KZ_KOSTANAY,Kostanay Kazakhstan,3.398
+grouped,MRI-ESM2-0,ssp245,26,BR_PASSOFUNDO,Passo Fundo Brazil,3.532
+grouped,MRI-ESM2-0,ssp245,27,AU_NORTHAM,Northam Australia,3.539
+grouped,MRI-ESM2-0,ssp245,28,ZA_MALMESBURY,Malmesbury South Africa,3.942
+grouped,MRI-ESM2-0,ssp245,29,ES_VALLADOLID,Valladolid Spain,3.98
+grouped,MRI-ESM2-0,ssp245,30,TR_KONYA,Konya Turkey,4.134
+grouped,MRI-ESM2-0,ssp585,1,US_OK_ENID,Enid Oklahoma,0.565
+grouped,MRI-ESM2-0,ssp585,2,US_TX_AMARILLO,Amarillo Texas,0.734
+grouped,MRI-ESM2-0,ssp585,3,US_KS_GARDENCITY,Garden City Kansas,0.894
+grouped,MRI-ESM2-0,ssp585,4,US_TX_WACO,Waco Texas,1.702
+grouped,MRI-ESM2-0,ssp585,5,US_CO_STERLING,Sterling Colorado,1.753
+grouped,MRI-ESM2-0,ssp585,6,AU_DUBBO,Dubbo Australia,1.826
+grouped,MRI-ESM2-0,ssp585,7,RU_KRASNODAR,Krasnodar Russia,1.839
+grouped,MRI-ESM2-0,ssp585,8,US_MO_COLUMBIA,Columbia Missouri,1.859
+grouped,MRI-ESM2-0,ssp585,9,US_NE_HASTINGS,Hastings Nebraska,1.908
+grouped,MRI-ESM2-0,ssp585,10,AR_MARCOSJUAREZ,Marcos Juarez Argentina,1.94
+grouped,MRI-ESM2-0,ssp585,11,AU_WAGGA,Wagga Wagga Australia,2.132
+grouped,MRI-ESM2-0,ssp585,12,RU_STAVROPOL,Stavropol Russia,2.137
+grouped,MRI-ESM2-0,ssp585,13,AR_PERGAMINO,Pergamino Argentina,2.154
+grouped,MRI-ESM2-0,ssp585,14,US_MS_GREENVILLE,Greenville Mississippi,2.216
+grouped,MRI-ESM2-0,ssp585,15,US_IL_CHAMPAIGN,Champaign Illinois,2.425
+grouped,MRI-ESM2-0,ssp585,16,US_IA_AMES,Ames Iowa,2.432
+grouped,MRI-ESM2-0,ssp585,17,ZA_BETHLEHEM,Bethlehem South Africa,2.456
+grouped,MRI-ESM2-0,ssp585,18,UA_KROPYVNYTSKYI,Kropyvnytskyi Ukraine,2.496
+grouped,MRI-ESM2-0,ssp585,19,UA_POLTAVA,Poltava Ukraine,2.544
+grouped,MRI-ESM2-0,ssp585,20,AU_HORSHAM,Horsham Australia,2.613
+grouped,MRI-ESM2-0,ssp585,21,US_ND_FARGO,Fargo North Dakota,2.858
+grouped,MRI-ESM2-0,ssp585,22,FR_CHARTRES,Chartres France,3.222
+grouped,MRI-ESM2-0,ssp585,23,AU_NORTHAM,Northam Australia,3.288
+grouped,MRI-ESM2-0,ssp585,24,BR_LONDRINA,Londrina Brazil,3.349
+grouped,MRI-ESM2-0,ssp585,25,CA_SK_REGINA,Regina Saskatchewan,3.393
+grouped,MRI-ESM2-0,ssp585,26,KZ_KOSTANAY,Kostanay Kazakhstan,3.496
+grouped,MRI-ESM2-0,ssp585,27,BR_PASSOFUNDO,Passo Fundo Brazil,3.676
+grouped,MRI-ESM2-0,ssp585,28,ZA_MALMESBURY,Malmesbury South Africa,3.81
+grouped,MRI-ESM2-0,ssp585,29,ES_VALLADOLID,Valladolid Spain,3.826
+grouped,MRI-ESM2-0,ssp585,30,TR_KONYA,Konya Turkey,3.974
+equal,ACCESS-CM2,ssp245,1,US_OK_ENID,Enid Oklahoma,1.02
+equal,ACCESS-CM2,ssp245,2,US_KS_GARDENCITY,Garden City Kansas,1.792
+equal,ACCESS-CM2,ssp245,3,US_TX_AMARILLO,Amarillo Texas,1.835
+equal,ACCESS-CM2,ssp245,4,AR_MARCOSJUAREZ,Marcos Juarez Argentina,2.591
+equal,ACCESS-CM2,ssp245,5,US_TX_WACO,Waco Texas,2.655
+equal,ACCESS-CM2,ssp245,6,AU_DUBBO,Dubbo Australia,2.79
+equal,ACCESS-CM2,ssp245,7,AR_PERGAMINO,Pergamino Argentina,3.169
+equal,ACCESS-CM2,ssp245,8,US_MO_COLUMBIA,Columbia Missouri,3.195
+equal,ACCESS-CM2,ssp245,9,US_CO_STERLING,Sterling Colorado,3.318
+equal,ACCESS-CM2,ssp245,10,US_NE_HASTINGS,Hastings Nebraska,3.425
+equal,ACCESS-CM2,ssp245,11,US_MS_GREENVILLE,Greenville Mississippi,3.442
+equal,ACCESS-CM2,ssp245,12,AU_WAGGA,Wagga Wagga Australia,3.485
+equal,ACCESS-CM2,ssp245,13,RU_KRASNODAR,Krasnodar Russia,3.583
+equal,ACCESS-CM2,ssp245,14,AU_HORSHAM,Horsham Australia,4.265
+equal,ACCESS-CM2,ssp245,15,RU_STAVROPOL,Stavropol Russia,4.338
+equal,ACCESS-CM2,ssp245,16,US_IA_AMES,Ames Iowa,4.363
+equal,ACCESS-CM2,ssp245,17,ZA_BETHLEHEM,Bethlehem South Africa,4.422
+equal,ACCESS-CM2,ssp245,18,US_IL_CHAMPAIGN,Champaign Illinois,4.432
+equal,ACCESS-CM2,ssp245,19,AU_NORTHAM,Northam Australia,4.488
+equal,ACCESS-CM2,ssp245,20,UA_KROPYVNYTSKYI,Kropyvnytskyi Ukraine,4.913
+equal,ACCESS-CM2,ssp245,21,UA_POLTAVA,Poltava Ukraine,4.97
+equal,ACCESS-CM2,ssp245,22,US_ND_FARGO,Fargo North Dakota,5.176
+equal,ACCESS-CM2,ssp245,23,BR_LONDRINA,Londrina Brazil,5.266
+equal,ACCESS-CM2,ssp245,24,ES_VALLADOLID,Valladolid Spain,5.763
+equal,ACCESS-CM2,ssp245,25,BR_PASSOFUNDO,Passo Fundo Brazil,5.951
+equal,ACCESS-CM2,ssp245,26,ZA_MALMESBURY,Malmesbury South Africa,5.958
+equal,ACCESS-CM2,ssp245,27,TR_KONYA,Konya Turkey,5.994
+equal,ACCESS-CM2,ssp245,28,CA_SK_REGINA,Regina Saskatchewan,6.285
+equal,ACCESS-CM2,ssp245,29,FR_CHARTRES,Chartres France,6.323
+equal,ACCESS-CM2,ssp245,30,KZ_KOSTANAY,Kostanay Kazakhstan,6.514
+equal,ACCESS-CM2,ssp585,1,US_OK_ENID,Enid Oklahoma,0.941
+equal,ACCESS-CM2,ssp585,2,US_KS_GARDENCITY,Garden City Kansas,1.729
+equal,ACCESS-CM2,ssp585,3,US_TX_AMARILLO,Amarillo Texas,1.825
+equal,ACCESS-CM2,ssp585,4,AR_MARCOSJUAREZ,Marcos Juarez Argentina,2.435
+equal,ACCESS-CM2,ssp585,5,AU_DUBBO,Dubbo Australia,2.756
+equal,ACCESS-CM2,ssp585,6,US_TX_WACO,Waco Texas,2.768
+equal,ACCESS-CM2,ssp585,7,AR_PERGAMINO,Pergamino Argentina,3.018
+equal,ACCESS-CM2,ssp585,8,US_MO_COLUMBIA,Columbia Missouri,3.059
+equal,ACCESS-CM2,ssp585,9,US_CO_STERLING,Sterling Colorado,3.249
+equal,ACCESS-CM2,ssp585,10,US_NE_HASTINGS,Hastings Nebraska,3.293
+equal,ACCESS-CM2,ssp585,11,AU_WAGGA,Wagga Wagga Australia,3.447
+equal,ACCESS-CM2,ssp585,12,US_MS_GREENVILLE,Greenville Mississippi,3.458
+equal,ACCESS-CM2,ssp585,13,RU_KRASNODAR,Krasnodar Russia,3.568
+equal,ACCESS-CM2,ssp585,14,US_IA_AMES,Ames Iowa,4.235
+equal,ACCESS-CM2,ssp585,15,AU_HORSHAM,Horsham Australia,4.265
+equal,ACCESS-CM2,ssp585,16,RU_STAVROPOL,Stavropol Russia,4.267
+equal,ACCESS-CM2,ssp585,17,ZA_BETHLEHEM,Bethlehem South Africa,4.268
+equal,ACCESS-CM2,ssp585,18,US_IL_CHAMPAIGN,Champaign Illinois,4.314
+equal,ACCESS-CM2,ssp585,19,AU_NORTHAM,Northam Australia,4.609
+equal,ACCESS-CM2,ssp585,20,UA_KROPYVNYTSKYI,Kropyvnytskyi Ukraine,4.857
+equal,ACCESS-CM2,ssp585,21,UA_POLTAVA,Poltava Ukraine,4.91
+equal,ACCESS-CM2,ssp585,22,US_ND_FARGO,Fargo North Dakota,5.082
+equal,ACCESS-CM2,ssp585,23,BR_LONDRINA,Londrina Brazil,5.12
+equal,ACCESS-CM2,ssp585,24,ES_VALLADOLID,Valladolid Spain,5.785
+equal,ACCESS-CM2,ssp585,25,BR_PASSOFUNDO,Passo Fundo Brazil,5.842
+equal,ACCESS-CM2,ssp585,26,ZA_MALMESBURY,Malmesbury South Africa,5.996
+equal,ACCESS-CM2,ssp585,27,TR_KONYA,Konya Turkey,6.023
+equal,ACCESS-CM2,ssp585,28,CA_SK_REGINA,Regina Saskatchewan,6.217
+equal,ACCESS-CM2,ssp585,29,FR_CHARTRES,Chartres France,6.25
+equal,ACCESS-CM2,ssp585,30,KZ_KOSTANAY,Kostanay Kazakhstan,6.469
+equal,MPI-ESM1-2-HR,ssp245,1,US_OK_ENID,Enid Oklahoma,0.644
+equal,MPI-ESM1-2-HR,ssp245,2,US_KS_GARDENCITY,Garden City Kansas,1.014
+equal,MPI-ESM1-2-HR,ssp245,3,US_TX_AMARILLO,Amarillo Texas,1.029
+equal,MPI-ESM1-2-HR,ssp245,4,AU_DUBBO,Dubbo Australia,2.203
+equal,MPI-ESM1-2-HR,ssp245,5,AR_MARCOSJUAREZ,Marcos Juarez Argentina,2.465
+equal,MPI-ESM1-2-HR,ssp245,6,US_CO_STERLING,Sterling Colorado,2.579
+equal,MPI-ESM1-2-HR,ssp245,7,US_TX_WACO,Waco Texas,2.813
+equal,MPI-ESM1-2-HR,ssp245,8,AU_WAGGA,Wagga Wagga Australia,2.836
+equal,MPI-ESM1-2-HR,ssp245,9,US_NE_HASTINGS,Hastings Nebraska,2.931
+equal,MPI-ESM1-2-HR,ssp245,10,AR_PERGAMINO,Pergamino Argentina,2.96
+equal,MPI-ESM1-2-HR,ssp245,11,US_MO_COLUMBIA,Columbia Missouri,2.968
+equal,MPI-ESM1-2-HR,ssp245,12,RU_KRASNODAR,Krasnodar Russia,3.043
+equal,MPI-ESM1-2-HR,ssp245,13,AU_HORSHAM,Horsham Australia,3.57
+equal,MPI-ESM1-2-HR,ssp245,14,RU_STAVROPOL,Stavropol Russia,3.651
+equal,MPI-ESM1-2-HR,ssp245,15,US_MS_GREENVILLE,Greenville Mississippi,3.757
+equal,MPI-ESM1-2-HR,ssp245,16,ZA_BETHLEHEM,Bethlehem South Africa,3.759
+equal,MPI-ESM1-2-HR,ssp245,17,US_IA_AMES,Ames Iowa,3.96
+equal,MPI-ESM1-2-HR,ssp245,18,US_IL_CHAMPAIGN,Champaign Illinois,4.111
+equal,MPI-ESM1-2-HR,ssp245,19,AU_NORTHAM,Northam Australia,4.161
+equal,MPI-ESM1-2-HR,ssp245,20,UA_KROPYVNYTSKYI,Kropyvnytskyi Ukraine,4.259
+equal,MPI-ESM1-2-HR,ssp245,21,UA_POLTAVA,Poltava Ukraine,4.36
+equal,MPI-ESM1-2-HR,ssp245,22,US_ND_FARGO,Fargo North Dakota,4.636
+equal,MPI-ESM1-2-HR,ssp245,23,ES_VALLADOLID,Valladolid Spain,5.137
+equal,MPI-ESM1-2-HR,ssp245,24,TR_KONYA,Konya Turkey,5.402
+equal,MPI-ESM1-2-HR,ssp245,25,BR_LONDRINA,Londrina Brazil,5.411
+equal,MPI-ESM1-2-HR,ssp245,26,ZA_MALMESBURY,Malmesbury South Africa,5.666
+equal,MPI-ESM1-2-HR,ssp245,27,CA_SK_REGINA,Regina Saskatchewan,5.667
+equal,MPI-ESM1-2-HR,ssp245,28,FR_CHARTRES,Chartres France,5.712
+equal,MPI-ESM1-2-HR,ssp245,29,KZ_KOSTANAY,Kostanay Kazakhstan,5.899
+equal,MPI-ESM1-2-HR,ssp245,30,BR_PASSOFUNDO,Passo Fundo Brazil,5.997
+equal,MPI-ESM1-2-HR,ssp585,1,US_OK_ENID,Enid Oklahoma,1.096
+equal,MPI-ESM1-2-HR,ssp585,2,US_TX_AMARILLO,Amarillo Texas,1.283
+equal,MPI-ESM1-2-HR,ssp585,3,US_KS_GARDENCITY,Garden City Kansas,1.511
+equal,MPI-ESM1-2-HR,ssp585,4,AU_DUBBO,Dubbo Australia,2.512
+equal,MPI-ESM1-2-HR,ssp585,5,US_TX_WACO,Waco Texas,2.603
+equal,MPI-ESM1-2-HR,ssp585,6,AR_MARCOSJUAREZ,Marcos Juarez Argentina,2.777
+equal,MPI-ESM1-2-HR,ssp585,7,US_CO_STERLING,Sterling Colorado,3.094
+equal,MPI-ESM1-2-HR,ssp585,8,AU_WAGGA,Wagga Wagga Australia,3.302
+equal,MPI-ESM1-2-HR,ssp585,9,AR_PERGAMINO,Pergamino Argentina,3.407
+equal,MPI-ESM1-2-HR,ssp585,10,US_MO_COLUMBIA,Columbia Missouri,3.513
+equal,MPI-ESM1-2-HR,ssp585,11,US_NE_HASTINGS,Hastings Nebraska,3.518
+equal,MPI-ESM1-2-HR,ssp585,12,RU_KRASNODAR,Krasnodar Russia,3.564
+equal,MPI-ESM1-2-HR,ssp585,13,US_MS_GREENVILLE,Greenville Mississippi,3.822
+equal,MPI-ESM1-2-HR,ssp585,14,AU_HORSHAM,Horsham Australia,4.008
+equal,MPI-ESM1-2-HR,ssp585,15,AU_NORTHAM,Northam Australia,4.22
+equal,MPI-ESM1-2-HR,ssp585,16,RU_STAVROPOL,Stavropol Russia,4.249
+equal,MPI-ESM1-2-HR,ssp585,17,ZA_BETHLEHEM,Bethlehem South Africa,4.3
+equal,MPI-ESM1-2-HR,ssp585,18,US_IA_AMES,Ames Iowa,4.545
+equal,MPI-ESM1-2-HR,ssp585,19,US_IL_CHAMPAIGN,Champaign Illinois,4.687
+equal,MPI-ESM1-2-HR,ssp585,20,UA_KROPYVNYTSKYI,Kropyvnytskyi Ukraine,4.842
+equal,MPI-ESM1-2-HR,ssp585,21,UA_POLTAVA,Poltava Ukraine,4.942
+equal,MPI-ESM1-2-HR,ssp585,22,US_ND_FARGO,Fargo North Dakota,5.204
+equal,MPI-ESM1-2-HR,ssp585,23,ES_VALLADOLID,Valladolid Spain,5.606
+equal,MPI-ESM1-2-HR,ssp585,24,BR_LONDRINA,Londrina Brazil,5.685
+equal,MPI-ESM1-2-HR,ssp585,25,TR_KONYA,Konya Turkey,5.866
+equal,MPI-ESM1-2-HR,ssp585,26,ZA_MALMESBURY,Malmesbury South Africa,5.984
+equal,MPI-ESM1-2-HR,ssp585,27,CA_SK_REGINA,Regina Saskatchewan,6.219
+equal,MPI-ESM1-2-HR,ssp585,28,FR_CHARTRES,Chartres France,6.307
+equal,MPI-ESM1-2-HR,ssp585,29,BR_PASSOFUNDO,Passo Fundo Brazil,6.368
+equal,MPI-ESM1-2-HR,ssp585,30,KZ_KOSTANAY,Kostanay Kazakhstan,6.442
+equal,MRI-ESM2-0,ssp245,1,US_OK_ENID,Enid Oklahoma,0.733
+equal,MRI-ESM2-0,ssp245,2,US_TX_AMARILLO,Amarillo Texas,1.224
+equal,MRI-ESM2-0,ssp245,3,US_KS_GARDENCITY,Garden City Kansas,1.266
+equal,MRI-ESM2-0,ssp245,4,AU_DUBBO,Dubbo Australia,2.353
+equal,MRI-ESM2-0,ssp245,5,AR_MARCOSJUAREZ,Marcos Juarez Argentina,2.545
+equal,MRI-ESM2-0,ssp245,6,US_TX_WACO,Waco Texas,2.666
+equal,MRI-ESM2-0,ssp245,7,US_CO_STERLING,Sterling Colorado,2.846
+equal,MRI-ESM2-0,ssp245,8,AU_WAGGA,Wagga Wagga Australia,3.043
+equal,MRI-ESM2-0,ssp245,9,AR_PERGAMINO,Pergamino Argentina,3.088
+equal,MRI-ESM2-0,ssp245,10,US_MO_COLUMBIA,Columbia Missouri,3.11
+equal,MRI-ESM2-0,ssp245,11,US_NE_HASTINGS,Hastings Nebraska,3.159
+equal,MRI-ESM2-0,ssp245,12,RU_KRASNODAR,Krasnodar Russia,3.225
+equal,MRI-ESM2-0,ssp245,13,US_MS_GREENVILLE,Greenville Mississippi,3.618
+equal,MRI-ESM2-0,ssp245,14,AU_HORSHAM,Horsham Australia,3.781
+equal,MRI-ESM2-0,ssp245,15,RU_STAVROPOL,Stavropol Russia,3.918
+equal,MRI-ESM2-0,ssp245,16,ZA_BETHLEHEM,Bethlehem South Africa,4.013
+equal,MRI-ESM2-0,ssp245,17,US_IA_AMES,Ames Iowa,4.165
+equal,MRI-ESM2-0,ssp245,18,AU_NORTHAM,Northam Australia,4.18
+equal,MRI-ESM2-0,ssp245,19,US_IL_CHAMPAIGN,Champaign Illinois,4.277
+equal,MRI-ESM2-0,ssp245,20,UA_KROPYVNYTSKYI,Kropyvnytskyi Ukraine,4.51
+equal,MRI-ESM2-0,ssp245,21,UA_POLTAVA,Poltava Ukraine,4.597
+equal,MRI-ESM2-0,ssp245,22,US_ND_FARGO,Fargo North Dakota,4.873
+equal,MRI-ESM2-0,ssp245,23,ES_VALLADOLID,Valladolid Spain,5.358
+equal,MRI-ESM2-0,ssp245,24,BR_LONDRINA,Londrina Brazil,5.398
+equal,MRI-ESM2-0,ssp245,25,TR_KONYA,Konya Turkey,5.606
+equal,MRI-ESM2-0,ssp245,26,ZA_MALMESBURY,Malmesbury South Africa,5.716
+equal,MRI-ESM2-0,ssp245,27,CA_SK_REGINA,Regina Saskatchewan,5.914
+equal,MRI-ESM2-0,ssp245,28,FR_CHARTRES,Chartres France,5.946
+equal,MRI-ESM2-0,ssp245,29,BR_PASSOFUNDO,Passo Fundo Brazil,6.021
+equal,MRI-ESM2-0,ssp245,30,KZ_KOSTANAY,Kostanay Kazakhstan,6.143
+equal,MRI-ESM2-0,ssp585,1,US_OK_ENID,Enid Oklahoma,1.069
+equal,MRI-ESM2-0,ssp585,2,US_TX_AMARILLO,Amarillo Texas,1.314
+equal,MRI-ESM2-0,ssp585,3,US_KS_GARDENCITY,Garden City Kansas,1.604
+equal,MRI-ESM2-0,ssp585,4,US_TX_WACO,Waco Texas,2.353
+equal,MRI-ESM2-0,ssp585,5,AU_DUBBO,Dubbo Australia,2.429
+equal,MRI-ESM2-0,ssp585,6,AR_MARCOSJUAREZ,Marcos Juarez Argentina,2.857
+equal,MRI-ESM2-0,ssp585,7,US_CO_STERLING,Sterling Colorado,3.141
+equal,MRI-ESM2-0,ssp585,8,AU_WAGGA,Wagga Wagga Australia,3.196
+equal,MRI-ESM2-0,ssp585,9,RU_KRASNODAR,Krasnodar Russia,3.407
+equal,MRI-ESM2-0,ssp585,10,AR_PERGAMINO,Pergamino Argentina,3.445
+equal,MRI-ESM2-0,ssp585,11,US_MO_COLUMBIA,Columbia Missouri,3.527
+equal,MRI-ESM2-0,ssp585,12,US_NE_HASTINGS,Hastings Nebraska,3.582
+equal,MRI-ESM2-0,ssp585,13,US_MS_GREENVILLE,Greenville Mississippi,3.648
+equal,MRI-ESM2-0,ssp585,14,AU_HORSHAM,Horsham Australia,3.858
+equal,MRI-ESM2-0,ssp585,15,AU_NORTHAM,Northam Australia,3.893
+equal,MRI-ESM2-0,ssp585,16,RU_STAVROPOL,Stavropol Russia,4.215
+equal,MRI-ESM2-0,ssp585,17,ZA_BETHLEHEM,Bethlehem South Africa,4.373
+equal,MRI-ESM2-0,ssp585,18,US_IA_AMES,Ames Iowa,4.591
+equal,MRI-ESM2-0,ssp585,19,US_IL_CHAMPAIGN,Champaign Illinois,4.672
+equal,MRI-ESM2-0,ssp585,20,UA_KROPYVNYTSKYI,Kropyvnytskyi Ukraine,4.788
+equal,MRI-ESM2-0,ssp585,21,UA_POLTAVA,Poltava Ukraine,4.896
+equal,MRI-ESM2-0,ssp585,22,US_ND_FARGO,Fargo North Dakota,5.25
+equal,MRI-ESM2-0,ssp585,23,ES_VALLADOLID,Valladolid Spain,5.393
+equal,MRI-ESM2-0,ssp585,24,TR_KONYA,Konya Turkey,5.632
+equal,MRI-ESM2-0,ssp585,25,BR_LONDRINA,Londrina Brazil,5.679
+equal,MRI-ESM2-0,ssp585,26,ZA_MALMESBURY,Malmesbury South Africa,5.696
+equal,MRI-ESM2-0,ssp585,27,CA_SK_REGINA,Regina Saskatchewan,6.239
+equal,MRI-ESM2-0,ssp585,28,FR_CHARTRES,Chartres France,6.28
+equal,MRI-ESM2-0,ssp585,29,BR_PASSOFUNDO,Passo Fundo Brazil,6.303
+equal,MRI-ESM2-0,ssp585,30,KZ_KOSTANAY,Kostanay Kazakhstan,6.425
