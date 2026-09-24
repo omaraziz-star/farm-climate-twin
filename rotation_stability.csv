@@ -1,0 +1,9 @@
+region_id,rotation,n_years,swing_pct,worst_year_pct,bad_years,pct_steadier_than_single
+US_KS_RENO,Wheat-Sorghum,11,23.6,-46.8,3,18
+US_KS_RENO,Wheat-Sorghum-Soy,11,22.0,-46.9,3,16
+US_KS_RENO,Wheat-Corn-Soy,11,14.1,-28.5,3,28
+US_KS_RENO,Corn-Soy,12,15.3,-33.4,3,8
+US_OK_ENID,Wheat-Sorghum,15,20.1,-40.6,3,32
+US_OK_ENID,Wheat-Sorghum-Soy,15,20.8,-39.7,5,32
+US_OK_ENID,Wheat-Corn-Soy,14,20.2,-38.4,2,43
+US_OK_ENID,Corn-Soy,15,32.6,-54.5,4,19

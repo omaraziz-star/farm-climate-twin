@@ -1,0 +1,9 @@
+region_id,crop,n_years,r_water,r_heat,r_freeze
+US_KS_RENO,corn,13,0.526,-0.491,
+US_KS_RENO,sorghum,11,0.534,-0.942,
+US_KS_RENO,soybeans,18,0.667,-0.687,
+US_KS_RENO,wheat,18,-0.016,0.158,-0.278
+US_OK_ENID,corn,17,0.624,-0.579,
+US_OK_ENID,sorghum,17,0.65,-0.744,
+US_OK_ENID,soybeans,18,0.684,-0.747,
+US_OK_ENID,wheat,18,0.153,0.041,-0.316
