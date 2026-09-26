@@ -2,7 +2,10 @@
 
 **Question:** If a farm's climate in 2035-2050 resembles a region's climate today, what can that region teach us about which crop rotations hold up?
 
-Built by Team TerraShift for the 2026 NASA Space Apps Challenge, *Field Shift: Adapting Farms with NASA Data*. Target farm: Reno County, Kansas (dryland wheat, sorghum, soybean, corn).
+Built by Omar Aziz for the 2026 NASA Space Apps Challenge, *Field Shift: Adapting Farms with NASA Data*. Target farm: Reno County, Kansas (dryland wheat, sorghum, soybean, corn).
+
+**Live dashboard:** https://public.tableau.com/app/profile/omar.aziz/viz/FarmClimateTwin/Dashboard1
+**Case study:** https://docs.google.com/document/d/1c1ycs2qPvffBo8V2MZkwMeDJ_5qioz0mq7xH8ul8Q4U
 
 ## Key findings (real NASA and USDA data)
 - **Warming:** all 3 climate models agree the farm's average daily high rises **+1.3 to +2.0 C** in 2035-2050 versus 2000-2014, with roughly 20-29 more days per year above 35 C.
@@ -19,7 +22,7 @@ Built by Team TerraShift for the 2026 NASA Space Apps Challenge, *Field Shift: A
 4. **Delta method:** future farm climate = real POWER baseline + each model's own change, so the two datasets' biases do not mix.
 5. **Twin match:** rank candidate regions by standardized climate distance per model and scenario; test stability with a second weighting scheme.
 6. **Yield validation:** join daily NASA POWER climate to real USDA NASS county yields (wheat, sorghum, soybeans, corn; 2005-2024) for Reno and Garfield (Enid) counties. Test whether climate stress correlates with yield, whether that relationship agrees across the twin pair, and how much a diversified crop mix reduces yield volatility versus single crops.
-7. Planned: Tableau dashboard, one-page case study.
+7. **Dashboard and case study:** results laid out in an interactive Tableau dashboard and a one-page case study (links above).
 
 ## Status
 | Phase | Status |
@@ -29,7 +32,7 @@ Built by Team TerraShift for the 2026 NASA Space Apps Challenge, *Field Shift: A
 | 3. Future climate extraction (NEX-GDDP-CMIP6) | Done |
 | 4. Climate-twin match + sensitivity check | Done |
 | 5. Yield validation + crop-mix stability | Done |
-| 6. Tableau dashboard and case study | Planned |
+| 6. Tableau dashboard and case study | Done |
 
 ## Run it (Python 3, no packages, no API keys)
 ```
